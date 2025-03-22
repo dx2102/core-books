@@ -1,9 +1,9 @@
 
 # core-books dataset
 
-Reading mathematics books is a crucial step in learning university-level mathematics and, ultimately, in becoming a mathematician. However, these books are often challenging to read—you might spend over an hour carefully analyzing the details on each page. As a result, many classic mathematics books are likely absent from the current training data of large language models (LLMs).
+Reading mathematics books is a crucial step in learning university-level mathematics and, ultimately, in becoming a mathematician. However, these books are often challenging to read—you might spend over an hour carefully analyzing the details on each page.
 
-Incorporating these books systematically into the training data could significantly enhance an LLM's understanding of advanced mathematics, potentially shifting the perception that such models struggle with reasoning tasks.
+Many classic mathematics books are likely absent from the current training data of large language models (LLMs). Incorporating these books systematically into the training data could significantly enhance an LLM's understanding of advanced mathematics, potentially shifting the perception that such models struggle with reasoning tasks.
 
 Although these books constitute a relatively small amount of data compared to other large-scale datasets, they represent the core material that human experts engage with daily. Unlike broad "calorie-rich" datasets, these high-quality books are more like "vitamins," filling in gaps in deep, structured knowledge.
 
