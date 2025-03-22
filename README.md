@@ -1,9 +1,22 @@
 
 # core-books dataset
 
+Reading mathematics books is a crucial step in learning university-level mathematics and, ultimately, in becoming a mathematician. However, these books are often challenging to read—you might spend over an hour carefully analyzing the details on each page. As a result, many classic mathematics books are likely absent from the current training data of large language models (LLMs).
+
+Incorporating these books systematically into the training data could significantly enhance an LLM's understanding of advanced mathematics, potentially shifting the perception that such models struggle with reasoning tasks.
+
+Although these books constitute a relatively small amount of data compared to other large-scale datasets, they represent the core material that human experts engage with daily. Unlike broad "calorie-rich" datasets, these high-quality books are more like "vitamins," filling in gaps in deep, structured knowledge.
+
+Therefore, to accurately assess and improve a language model's mathematical abilities, we must ensure the model has access to the same texts that human mathematicians study. This step could prove just as essential as advancements in theorem provers, chain-of-thought prompting, or other techniques aimed at enhancing reasoning.
+
+For example, in existing public datasets, the Books3 subset of RedPajama includes a wide variety of fiction and non-fiction works. However, most of these books likely originate from epub files, whereas classic mathematics texts are commonly distributed in PDF format—often as scanned copies, though some exist as text-based PDFs. To make these resources accessible, we can leverage vision-language models to convert scanned PDFs into markdown text, making them suitable for training.
+
+Below are several links to mathematics books in PDF format that I gathered via Google search.
+
 I referred to these lists:
 https://www.ocf.berkeley.edu/~abhishek/chicmath.htm
 https://github.com/rossant/awesome-math
+https://github.com/zhangir-azerbayev/proof-pile/blob/main/fetch_books_and_formal.py
 
 ---
 
