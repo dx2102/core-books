@@ -5,7 +5,7 @@ Reading mathematics books is a crucial step in learning university-level mathema
 
 Many classic mathematics books are likely absent from the current training data of large language models (LLMs). Incorporating these books systematically into the training data could significantly enhance an LLM's understanding of advanced mathematics, potentially shifting the perception that such models struggle with reasoning tasks.
 
-Although these books constitute a relatively small amount of data compared to other large-scale datasets, they represent the core material that human experts engage with daily. Unlike broad "calorie-rich" datasets, these high-quality books are more like "vitamins," filling in gaps in deep, structured knowledge.
+Although these books constitute a relatively small amount of data compared to other large-scale datasets, they represent the core material that human experts engage with daily. Unlike broad "calorie-rich" datasets, these high-quality books are more like "vitamins", filling in gaps in deep, structured knowledge.
 
 Therefore, to accurately assess and improve a language model's mathematical abilities, we must ensure the model has access to the same texts that human mathematicians study. This step could prove just as essential as advancements in theorem provers, chain-of-thought prompting, or other techniques aimed at enhancing reasoning.
 
