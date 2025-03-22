@@ -13,10 +13,10 @@ For example, in existing public datasets, the Books3 subset of RedPajama include
 
 Below are several links to mathematics books in PDF format that I gathered via Google search.
 
-I referred to these lists:
-https://www.ocf.berkeley.edu/~abhishek/chicmath.htm
-https://github.com/rossant/awesome-math
-https://github.com/zhangir-azerbayev/proof-pile/blob/main/fetch_books_and_formal.py
+I referred to these lists:  
+https://www.ocf.berkeley.edu/~abhishek/chicmath.htm  
+https://github.com/rossant/awesome-math  
+https://github.com/zhangir-azerbayev/proof-pile/blob/main/fetch_books_and_formal.py  
 
 ---
 
