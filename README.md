@@ -7,7 +7,7 @@ Many classic mathematics books are likely absent from the current training data 
 
 Although these books constitute a relatively small amount of data compared to other large-scale datasets, they represent the core material that human experts engage with daily. Unlike broad "calorie-rich" datasets, these high-quality books are more like "vitamins", filling in gaps in deep, structured knowledge.
 
-Therefore, to accurately assess and improve a language model's mathematical abilities, we must ensure the model has access to the same texts that human mathematicians study. This step could prove just as essential as advancements in theorem provers, chain-of-thought prompting, or other techniques aimed at enhancing reasoning.
+To accurately assess and improve a language model's mathematical abilities, we must ensure the model has access to the same texts that human mathematicians study. This step could prove just as essential as advancements in theorem provers, chain-of-thought prompting, or other techniques aimed at enhancing reasoning.
 
 For example, in existing public datasets, the Books3 subset of RedPajama includes a wide variety of fiction and non-fiction works. However, most of these books likely originate from epub files, whereas classic mathematics texts are commonly distributed in PDF format—often as scanned copies, though some exist as text-based PDFs. To make these resources accessible, we can leverage vision-language models to convert scanned PDFs into markdown text, making them suitable for training.
 
