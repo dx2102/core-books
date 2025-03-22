@@ -9,7 +9,7 @@ Although these books constitute a relatively small amount of data compared to ot
 
 To accurately assess and improve a language model's mathematical abilities, we must ensure the model has access to the same texts that human mathematicians study. For AI for Math tasks, this step could prove just as essential as advancements in theorem provers, chain-of-thought prompting, or other techniques aimed at enhancing reasoning.
 
-For example, in existing public datasets, the Books3 subset of RedPajama includes a wide variety of fiction and non-fiction works. However, most of these books likely originate from epub files, whereas classic mathematics texts are commonly distributed in PDF format—often as scanned copies, though some exist as text-based PDFs. To make these resources accessible, we can leverage vision-language models to convert scanned PDFs into markdown text, making them suitable for training.
+For example, in existing public datasets, the Books3 subset of RedPajama includes a wide variety of fiction and non-fiction works. However, most of these books likely originate from EPUB files, whereas classic mathematics texts are commonly distributed in PDF format—often as scanned copies. To make these resources accessible, we can leverage vision-language models to convert scanned PDFs into markdown text.
 
 Below are several links to mathematics books in PDF format that I gathered via Google search.
 
