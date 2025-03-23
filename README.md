@@ -3,11 +3,9 @@
 
 Reading mathematics books is a crucial step in learning university-level mathematics and, ultimately, in becoming a mathematician. However, these books are often challenging to read—you might spend over an hour carefully analyzing the details on each page.
 
-Many classic mathematics books are likely absent from the current training data of large language models (LLMs). Incorporating these books systematically into the training data could significantly enhance an LLM's understanding of advanced mathematics, potentially shifting the perception that such models struggle with reasoning tasks.
+Many classic mathematics books are likely absent from the current training data of large language models (LLMs). Incorporating these books systematically into the training data could significantly enhance an LLM's understanding of advanced mathematics, potentially shifting the perception that such models struggle with reasoning tasks, and improve current techniques such as chain-of-thought and theorem prover integration.
 
 Although these books constitute a relatively small amount of data compared to other large-scale datasets, they represent the core material that human experts engage with daily. Unlike broad "calorie-rich" datasets, these high-quality books are more like "vitamins", filling in gaps in deep, structured knowledge.
-
-To accurately assess and improve a language model's mathematical abilities, we must ensure the model has access to the same texts that human mathematicians study. For AI for Math tasks, this step could prove just as essential as advancements in theorem provers, chain-of-thought prompting, or other techniques aimed at enhancing reasoning.
 
 For example, in existing public datasets, the Books3 subset of RedPajama includes a wide variety of fiction and non-fiction works. However, most of these books likely originate from EPUB files, whereas classic mathematics texts are commonly distributed in PDF format—often as scanned copies. To make these resources accessible, we can leverage vision-language models to convert scanned PDFs into markdown text.
 
