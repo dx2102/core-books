@@ -1,7 +1,7 @@
 
 # The real-books dataset
 
-Reading mathematics books is an indispensable part of learning university-level mathematics. These books take a lot of time to read, but they contain detailed proofs that are not in summary articles like wikipedia or blogs. The books are curcial for the knowledge-heavy field of math.
+Reading mathematics books is an indispensable part of learning university-level mathematics. These textbooks take a lot of time to read, but they contain detailed proofs that are not in summary articles like wikipedia or blogs. The books are curcial for the knowledge-heavy field of math.
 
 However, many classic mathematics books are likely absent from the current training data of large language models (LLMs). Datasets like CommonCrawl and FineWeb are derived from HTML-based websites, and therefore miss most books. The Books3 subset of RedPajama includes a lot of fiction and non-fiction works. However, most of these books likely originate from EPUB e-book files, whereas classic mathematics texts are often only distributed in PDF format—often as scanned copies.
 
