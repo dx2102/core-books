@@ -7,7 +7,7 @@ However, many classic mathematics books are likely absent from the current train
 
 Incorporating these books systematically into the training data could significantly enhance an LLM's understanding of advanced mathematics, improve expert user experience, and might dramatically change evaluation results in chain-of-thought and theorem prover integration, simply by eliminating the lack of knowledge.
 
-Unlike broad "calorie-rich" datasets, these high-quality books are more like "vitamins", a really small part of available data that human experts engage with daily.
+Unlike broad "calorie-rich" datasets, these high-quality books are more like "vitamins". They are a really small part of available data, but human experts engage with them daily.
 
 Below are several links to mathematics books in PDF format that I gathered via Google search. You can download these small pdf files with a Python script. I tried to (more or less) order the book links by prerequisite, so we can train the model with the more basic knowledge first, ie try doing curriculum learning.
 
