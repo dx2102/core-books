@@ -1,5 +1,5 @@
 
-# core-books dataset
+# real-books dataset
 
 Reading mathematics books is a crucial step in learning university-level mathematics and, ultimately, in becoming a mathematician. However, these books are often challenging to read—you might spend over an hour carefully analyzing the details on each page.
 
