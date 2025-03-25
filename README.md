@@ -9,7 +9,7 @@ Incorporating these books systematically into the training data could significan
 
 Unlike broad "calorie-rich" datasets, these high-quality books are more like "vitamins", a really small part of available data that human experts engage with daily.
 
-Below are several links to mathematics books in PDF format that I gathered via Google search. 
+Below are several links to mathematics books in PDF format that I gathered via Google search. You can download these small pdf files with a Python script. I tried to (more or less) order the book links by prerequisite, so we can train the model with the more basic knowledge first, ie try doing curriculum learning.
 
 Many of these books do not have an available Latex version on the Internet, so some form of OCR is needed. With the advance of vision-language models, we can now prompt them to recognize formulas and organize a markdown version. This might give a more consistant and cheaper OCR result, compared to previous technologies like MathPix.
 
