@@ -1,15 +1,17 @@
 
 # real-books dataset
 
-Reading mathematics books is a crucial step in learning university-level mathematics and, ultimately, in becoming a mathematician. However, these books are often challenging to read—you might spend over an hour carefully analyzing the details on each page.
+Reading mathematics books is an indispensable part of learning university-level mathematics. These books take a lot of time to read, but they contain detailed proofs that are not in summary articles like wikipedia or blogs.
 
-Many classic mathematics books are likely absent from the current training data of large language models (LLMs). Incorporating these books systematically into the training data could significantly enhance an LLM's understanding of advanced mathematics, potentially shifting the perception that such models struggle with reasoning tasks, and improve current techniques such as chain-of-thought and theorem prover integration.
+However, many classic mathematics books are likely absent from the current training data of large language models (LLMs). Datasets like CommonCrawl and FineWeb are derived from HTML-based websites, and therefore miss most books. The Books3 subset of RedPajama includes a lot of fiction and non-fiction works. However, most of these books likely originate from EPUB e-book files, whereas classic mathematics texts are often only distributed in PDF format—often as scanned copies.
 
-Although these books constitute a relatively small amount of data compared to other large-scale datasets, they represent the core material that human experts engage with daily. Unlike broad "calorie-rich" datasets, these high-quality books are more like "vitamins", filling in gaps in deep, structured knowledge.
+Incorporating these books systematically into the training data could significantly enhance an LLM's understanding of advanced mathematics, improve expert user experience, and might dramatically change evaluation results in chain-of-thought and theorem prover integration, simply by eliminating the lack of knowledge.
 
-For example, in existing public datasets, the Books3 subset of RedPajama includes a wide variety of fiction and non-fiction works. However, most of these books likely originate from EPUB files, whereas classic mathematics texts are commonly distributed in PDF format—often as scanned copies. To make these resources accessible, we can leverage vision-language models to convert scanned PDFs into markdown text.
+Unlike broad "calorie-rich" datasets, these high-quality books are more like "vitamins", a really small part of available data that human experts engage with daily.
 
-Below are several links to mathematics books in PDF format that I gathered via Google search.
+Below are several links to mathematics books in PDF format that I gathered via Google search. 
+
+Many of these books do not have an available Latex version on the Internet, so some form of OCR is needed. With the advance of vision-language models, we can now prompt them to recognize formulas and organize a markdown version. This might give a more consistant and cheaper OCR result, compared to previous technologies like MathPix.
 
 I referred to these lists:  
 https://www.ocf.berkeley.edu/~abhishek/chicmath.htm  
