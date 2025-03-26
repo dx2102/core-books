@@ -3,7 +3,7 @@
 
 Reading mathematics books is an indispensable part of learning university-level mathematics. These textbooks take a lot of time to read, but they contain detailed proofs that are not in summary articles like wikipedia or blogs. The books are curcial for the knowledge-heavy field of math.
 
-However, many classic mathematics books are likely absent from the current training data of large language models (LLMs). Datasets like CommonCrawl and FineWeb are derived from HTML-based websites, and therefore miss most books. The Books3 subset of RedPajama includes a lot of fiction and non-fiction works. However, most of these books likely originate from EPUB e-book files, whereas classic mathematics texts are often only distributed in PDF format—often as scanned copies.
+However, many classic mathematics books are likely absent from the current training data of LLMs (large language models). Datasets like CommonCrawl and FineWeb are derived from HTML-based websites, and therefore miss most books. The Books3 subset of RedPajama includes a lot of fiction and non-fiction works. However, most of these books likely originate from EPUB e-book files, whereas classic mathematics texts are often only distributed in PDF format—often as scanned copies.
 
 Incorporating these books systematically into the training data could significantly enhance an LLM's understanding of advanced mathematics, improve expert user experience, and might dramatically change evaluation results in chain-of-thought and theorem prover integration, simply by eliminating the lack of knowledge.
 
@@ -13,10 +13,16 @@ Below are several links to mathematics books in PDF format that I gathered via G
 
 Many of these books do not have an available Latex version on the Internet, so some form of OCR is needed. With the advance of vision-language models, we can now prompt them to recognize formulas and organize a markdown version. This might give a more consistant and cheaper OCR result, compared to previous technologies like MathPix.
 
-I referred to these lists:  
+I referred to these book lists:  
 https://www.ocf.berkeley.edu/~abhishek/chicmath.htm  
 https://github.com/rossant/awesome-math  
 https://github.com/zhangir-azerbayev/proof-pile/blob/main/fetch_books_and_formal.py  
+
+Other training data to consider:  
+Contest problems from AoPS (Art of Problem Solving) like: https://huggingface.co/datasets/di-zhang-fdu/AOPS/viewer/default/train?row=0&views%5B%5D=train
+GTM (Graduate Texts in Mathematics) book series with about 200 books
+Wiki websites like: Wikipedia, ProofWiki, PlanetMath, NCatLab
+Github repos: Theorem provers (source code, textbooks, standard libraries, projects)
 
 ---
 
