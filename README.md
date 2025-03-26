@@ -22,8 +22,8 @@ I referred to these book lists:
 
 Other training data to consider:  
 - Contest problems from AoPS (Art of Problem Solving) like the MATH dataset or [this one](https://huggingface.co/datasets/di-zhang-fdu/AOPS/viewer/default/train?row=0&views%5B%5D=train)  
-- GTM (Graduate Texts in Mathematics) book series with about 200 books  
-- Wiki websites: Wikipedia, ProofWiki, PlanetMath, nLab  
+- GTM (Graduate Texts in Mathematics) book series with about 300 books (Also UTM, GSM)  
+- Wiki websites: Wikipedia, ProofWiki, PlanetMath, nLab
 - QA datasets: MathOverflow, MathStackExchange  
 - Github repos: Theorem provers (source code, textbooks, standard libraries, projects)
 - Plug-and-Chug or auto-generated problems: MathQA, DeepMind Mathematics
@@ -32,25 +32,29 @@ Other training data to consider:
 
 # High School and Problem Solving
 
-Euclid, Elements https://www.gutenberg.org/files/21076/21076-pdf.pdf
+Euclid, Elements https://www.gutenberg.org/files/21076/21076-t/21076-t.tex
 
-Lehoczky and Rusczyk, The Art of Problem Solving, Volume 1: the Basics https://github.com/lasikaspur/The-art-of-problem-solving.-Volume-1-The-basics-PDFDrive-/blob/main/The%20art%20of%20problem%20solving.%20Volume%201%2C%20The%20basics%20(%20PDFDrive%20).pdf
+Lehoczky and Rusczyk, The Art of Problem Solving - Volume 1: the Basics https://github.com/lasikaspur/The-art-of-problem-solving.-Volume-1-The-basics-PDFDrive-/blob/main/The%20art%20of%20problem%20solving.%20Volume%201%2C%20The%20basics%20(%20PDFDrive%20).pdf
 
 Arthur Engel, Problem-Solving Strategies https://mathematicalolympiads.wordpress.com/wp-content/uploads/2012/08/75427434-problem-books-in-mathematics-problem-solving-strategies.pdf
 
 Terrece Tao, Solving Mathematical Problems https://raktimchatterjee.wordpress.com/wp-content/uploads/2015/09/solving-mathematical-problems-terence-tao.pdf
 
 
-# Beginning of College Math
+# Center of College Math 
 
-## Transition to College Math
+## Introduction to Math
 Evan Chen, An Infinitely Large Napkin https://venhance.github.io/napkin/Napkin.pdf
 
+Gowers, Princeton Companion to Mathematics https://sites.math.rutgers.edu/~zeilberg/akherim/PCM.pdf
 Hilbert, Foundations of geometry https://math.berkeley.edu/~wodzicki/160/Hilbert.pdf
 
-Knuth, Concrete mathematics https://github.com/djtrack16/thyme/blob/master/math/Concrete%20Mathematics%20A%20Foundation%20of%20Computer%20Science%202nd%20Edition.pdf
+Graham, Concrete mathematics https://github.com/djtrack16/thyme/blob/master/math/Concrete%20Mathematics%20A%20Foundation%20of%20Computer%20Science%202nd%20Edition.pdf
 
 Halmos, Naive set theory http://people.whitman.edu/~guichard/260/halmos__naive_set_theory.pdf
+
+## Precalculus
+...
 
 ## Calculus
 ...
@@ -66,8 +70,72 @@ Sheldon Axler, Linear Algebra Done Right https://linear.axler.net/LADR4e.pdf
 ...
 
 
+## Mathematical Analysis
 
-# Relatively Independent Fields
+Terence Tao, Analysis https://math.unm.edu/~crisp/courses/math401/tao.pdf Solutions https://github.com/frederic-santos/taoanalysissolutions/blob/master/analysis_t1_exercises.tex https://github.com/frederic-santos/taoanalysissolutions/blob/master/analysis_t2_exercises.tex
+
+Stephen Abbott, Understanding Analysis https://books.tarbaweya.org/static/documents/uploads/pdf/2015_Book_UnderstandingAnalysis.pdf
+
+Charles C. Pugh, Real Mathematical Analysis https://smartmanmaths.wordpress.com/wp-content/uploads/2017/11/real-mathematical-analysis.pdf
+
+Richard R. Goldberg, Methods of Real Analysis https://alansinyal.wordpress.com/wp-content/uploads/2012/08/method-of-real-analysis.pdf
+
+Tom M. Apostol, Mathematical Analysis https://invent.ilmkidunya.com/images/Section/mathematical-analysis-css-book.pdf
+
+Rudin, Principles of Mathematical Analysis https://david92jackson.neocities.org/images/Principles_of_Mathematical_Analysis-Rudin.pdf Solutions https://pages.cs.wisc.edu/~wentaowu/other-docs/POMA_Solution_Sheet.pdf https://github.com/awasthi/math-solutions/blob/master/Rudin/Principles%20of%20Mathematical%20Analysis/RudinSolutions.tex
+
+Gelbaum, Counterexamples in Analysis https://faculty.ksu.edu.sa/sites/default/files/_olmsted_1.pdf
+
+## Real Analysis
+
+Elias Stein & Rami Shakarchi, Real Analysis: Measure Theory, Integration, and Hilbert Spaces https://www.cmat.edu.uy/~mordecki/courses/medida2013/book.pdf
+
+Gerald B. Folland, Real Analysis: Modern Techniques and Their Applications https://apachepersonal.miun.se/~andrli/Bok.pdf
+
+Serge Lang, Real and Functional Analysis https://59clc.wordpress.com/wp-content/uploads/2012/08/real-and-functional-analysis-lang.pdf
+
+H. L. Royden & P. M. Fitzpatrick - Real Analysis https://s2pnd-matematika.fkip.unpatti.ac.id/wp-content/uploads/2019/03/Real-Analysis-4th-Ed-Royden.pdf
+
+Rudin, Real and Complex Analysis https://59clc.wordpress.com/wp-content/uploads/2011/01/real-and-complex-analysis.pdf Solutions https://iseulbee.com/wp-content/uploads/2014/03/RCA-Solution.pdf https://github.com/awasthi/math-solutions/blob/master/Rudin/Real%20and%20Complex%20Analysis/PapaRudinSolutions.tex
+
+## Complex Variables
+Conway, Functions of One Complex Variable https://psm73.wordpress.com/wp-content/uploads/2009/03/conway.pdf
+
+## Ordinary Differential Equations
+Arnold, Ordinary differential equations https://loshijosdelagrange.wordpress.com/wp-content/uploads/2013/04/vladimir-i-arnold-vladimir-i-arnold-roger-cooke-ordinary-differential-equations-1992.pdf  
+
+## Point Set Topology
+Munkres, Topology https://people.math.ethz.ch/~dkosanovic/24-FS/Munkres-Topology.pdf Solutions https://math-study.net/wp-content/TopologySolutions.pdf https://math.ucr.edu/~res/math205B-2021/solutions/gentop-solutions.pdf https://github.com/awasthi/math-solutions/blob/master/Munkres/Munkres%20Solutions.tex
+
+Armstrong, Basic Topology https://math.mit.edu/~hrm/palestine/armstrong-basic-topology.pdf Solutions https://github.com/gblikas/armstrongTopologySolutions/blob/master/Armstrong_Topology_Solutions%20(1).pdf
+
+Kelley, General Topology https://cjhb.site/Files.php/Books/(Uncategorized)/General%20Topology-John%20L.Kelley.pdf
+
+Morris, Topology without Tears, https://www.topologywithouttears.net/topbook.pdf
+
+Lynn Arthur Steen & J. Arthur Seebach, Counterexamples in Topology, https://editorialdinosaurio.wordpress.com/wp-content/uploads/2012/03/counterexamples_in_topology_-_l-_steen__j-_seebach__1970__ww.pdf
+
+Viro, Elementary Topology Problem Textbook https://www.maths.ed.ac.uk/~v1ranick/papers/viro.pdf
+
+Matsumura, Introduction to Topology [lecture-notes] https://pi.math.cornell.edu/~matsumura/math4530/IntroToTopology.pdf
+
+Renzo, Introduction to Topology [lecture-notes] https://www.math.colostate.edu/~renzo/teaching/Topology10/Notes.pdf
+
+Warner, Topological Rings, https://mezbanhabibi.ir/wp-content/uploads/2020/01/Topological-Rings-Warner.pdf
+
+## Algebra
+Artin, Algebra https://media.githubusercontent.com/media/storagelfs/books/main/Applied%20Mathematics/Algebra/Artin.%20Algebra.%201991.pdf Solutions https://github.com/awasthi/math-solutions/blob/master/Artin/Artin%20Solutions.tex
+
+Paolo Aluffi, Algebra: Chapter 0 https://agorism.dev/book/math/alg/algebra_chapter-0_paolo-aluffi.pdf
+
+
+
+
+
+
+
+
+# Applied Fields, Computational Fields, Combinatorics
 
 ## Mathematical Modeling
 ...
@@ -83,14 +151,27 @@ https://www.math.uci.edu/~qnie/Publications/NumericalOptimization.pdf
 
 Boyd, Convex Optimization https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf
 
+## Fourier Analysis and Signal Processing
+
+
 ## Finite Element Method
 ...
 
 ## Combinatorics
-...
+
+Sagan, Combinatorics: The Art of Counting https://users.math.msu.edu/users/bsagan/Books/Aoc/final.pdf
 
 ## Enumerative Combinatorics
-...
+Stanley, Enumerative Combinatorics https://www.ms.uky.edu/~sohum/putnam/enu_comb_stanley.pdf
+
+Grinberg, Enumerative Combinatorics: class notes https://www.cip.ifi.lmu.de/~grinberg/t/19fco/n/n.pdf
+
+Cameron, Notes on Counting: An Introduction to Enumerative Combinatorics https://webspace.maths.qmul.ac.uk/b.jackson/MTHM030/counting.pdf
+
+Yan, Handbook of Enumerative Combinatorics https://people.tamu.edu/~huafei-yan//Files/Yan-Final-Own-Copy.pdf
+
+Ardila, Algebraic and geometric methods in enumerative combinatorics https://fardila.com/Articles/methods.pdf
+
 
 ## Graph Theory
 ...
@@ -148,49 +229,8 @@ Boyd, Convex Optimization https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf
 
 
 
-# Core of Math
-## Mathematical Analysis
 
-Terence Tao, Analysis https://math.unm.edu/~crisp/courses/math401/tao.pdf Solutions https://github.com/frederic-santos/taoanalysissolutions/blob/master/analysis_t1_exercises.tex https://github.com/frederic-santos/taoanalysissolutions/blob/master/analysis_t2_exercises.tex
-
-Gelbaum, Counterexamples in Analysis https://faculty.ksu.edu.sa/sites/default/files/_olmsted_1.pdf
-
-Rudin, Real and Complex Analysis https://59clc.wordpress.com/wp-content/uploads/2011/01/real-and-complex-analysis.pdf Solutions https://iseulbee.com/wp-content/uploads/2014/03/RCA-Solution.pdf
-
-Rudin, Principles of Mathematical Analysis
-
-
-## Complex Variables
-Conway, Functions of One Complex Variable https://psm73.wordpress.com/wp-content/uploads/2009/03/conway.pdf
-
-## Ordinary Differential Equations
-Arnold, Ordinary differential equations https://loshijosdelagrange.wordpress.com/wp-content/uploads/2013/04/vladimir-i-arnold-vladimir-i-arnold-roger-cooke-ordinary-differential-equations-1992.pdf  
-
-## Point Set Topology
-Munkres, Topology https://people.math.ethz.ch/~dkosanovic/24-FS/Munkres-Topology.pdf Solutions https://math-study.net/wp-content/TopologySolutions.pdf https://math.ucr.edu/~res/math205B-2021/solutions/gentop-solutions.pdf
-
-Armstrong, Basic Topology https://math.mit.edu/~hrm/palestine/armstrong-basic-topology.pdf Solutions https://github.com/gblikas/armstrongTopologySolutions/blob/master/Armstrong_Topology_Solutions%20(1).pdf
-
-Kelley, General Topology https://cjhb.site/Files.php/Books/(Uncategorized)/General%20Topology-John%20L.Kelley.pdf
-
-Morris, Topology without Tears, https://www.topologywithouttears.net/topbook.pdf
-
-Lynn Arthur Steen & J. Arthur Seebach, Counterexamples in Topology, https://editorialdinosaurio.wordpress.com/wp-content/uploads/2012/03/counterexamples_in_topology_-_l-_steen__j-_seebach__1970__ww.pdf
-
-Viro, Elementary Topology Problem Textbook https://www.maths.ed.ac.uk/~v1ranick/papers/viro.pdf
-
-Matsumura, Introduction to Topology [lecture-notes] https://pi.math.cornell.edu/~matsumura/math4530/IntroToTopology.pdf
-
-Renzo, Introduction to Topology [lecture-notes] https://www.math.colostate.edu/~renzo/teaching/Topology10/Notes.pdf
-
-Warner, Topological Rings, https://mezbanhabibi.ir/wp-content/uploads/2020/01/Topological-Rings-Warner.pdf
-
-## Algebra
-Artin, Algebra https://media.githubusercontent.com/media/storagelfs/books/main/Applied%20Mathematics/Algebra/Artin.%20Algebra.%201991.pdf
-
-Paolo Aluffi, Algebra: Chapter 0 https://agorism.dev/book/math/alg/algebra_chapter-0_paolo-aluffi.pdf
-
-# Advanced Analysis
+# More Analysis
 
 ## Mathematical Methods in Physics
 ...
@@ -251,7 +291,7 @@ Evans, Partial differential equations https://math24.wordpress.com/wp-content/up
 ...
 
 
-# Advanced Algebra and Geometry
+# More Algebra and Geometry
 
 ## Differential Geometry
 Spivak, Calculus on Manifolds http://strangebeautiful.com/other-texts/spivak-calc-manifolds.pdf
@@ -262,7 +302,10 @@ Spivak, A comprehensive introduction to differential geometry, 1 https://ia60140
 Jost, Compact Riemann surfaces https://www.maths.ed.ac.uk/~v1ranick/papers/jost.pdf
 
 ## Algebraic Topology
-...
+Hatcher, Algebraic Topology https://pi.math.cornell.edu/~hatcher/AT/AT.pdf Solutions https://github.com/awasthi/math-solutions/blob/master/Hatcher/Hatcher%20Solutions.tex
+
+## Differential Topology
+J. W. Milnor and J. D. Stasheff, Characteristic Classes https://aareyanmanzoor.github.io/assets/books/characteristic-classes.pdf Solutions https://github.com/awasthi/math-solutions/blob/master/Milnor/Milnor.tex
 
 ## Low-Dimensional Topology
 ...
