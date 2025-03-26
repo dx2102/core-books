@@ -14,16 +14,16 @@ Below are several links to mathematics books in PDF format that I gathered via G
 Many of these books do not have an available Latex version on the Internet, so some form of OCR is needed. With the advance of vision-language models, we can now prompt them to recognize formulas and organize a markdown version. This might give a more consistant and cheaper OCR result, compared to previous technologies like MathPix.
 
 I referred to these book lists:  
-https://www.ocf.berkeley.edu/~abhishek/chicmath.htm  
-https://github.com/rossant/awesome-math  
-https://github.com/zhangir-azerbayev/proof-pile/blob/main/fetch_books_and_formal.py  
+- https://www.ocf.berkeley.edu/~abhishek/chicmath.htm  
+- https://github.com/rossant/awesome-math  
+- https://github.com/zhangir-azerbayev/proof-pile/blob/main/fetch_books_and_formal.py  
 
 Other training data to consider:  
-Contest problems from AoPS (Art of Problem Solving) like the MATH dataset or [this one](https://huggingface.co/datasets/di-zhang-fdu/AOPS/viewer/default/train?row=0&views%5B%5D=train)  
-GTM (Graduate Texts in Mathematics) book series with about 200 books  
-Wiki websites like: Wikipedia, ProofWiki, PlanetMath, nLab  
-QA datasets like: MathOverflow, MathStackExchange  
-Github repos: Theorem provers (source code, textbooks, standard libraries, projects)  
+- Contest problems from AoPS (Art of Problem Solving) like the MATH dataset or [this one](https://huggingface.co/datasets/di-zhang-fdu/AOPS/viewer/default/train?row=0&views%5B%5D=train)  
+- GTM (Graduate Texts in Mathematics) book series with about 200 books  
+- Wiki websites: Wikipedia, ProofWiki, PlanetMath, nLab  
+- QA datasets: MathOverflow, MathStackExchange  
+- Github repos: Theorem provers (source code, textbooks, standard libraries, projects)  
 
 ---
 
