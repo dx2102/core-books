@@ -23,7 +23,8 @@ Other training data to consider:
 - GTM (Graduate Texts in Mathematics) book series with about 200 books  
 - Wiki websites: Wikipedia, ProofWiki, PlanetMath, nLab  
 - QA datasets: MathOverflow, MathStackExchange  
-- Github repos: Theorem provers (source code, textbooks, standard libraries, projects)  
+- Github repos: Theorem provers (source code, textbooks, standard libraries, projects)
+- Plug-and-Chug or auto-generated problems: MathQA, DeepMind Mathematics
 
 ---
 
