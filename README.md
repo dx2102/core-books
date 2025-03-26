@@ -19,7 +19,7 @@ https://github.com/rossant/awesome-math
 https://github.com/zhangir-azerbayev/proof-pile/blob/main/fetch_books_and_formal.py  
 
 Other training data to consider:  
-Contest problems from AoPS (Art of Problem Solving) like: https://huggingface.co/datasets/di-zhang-fdu/AOPS/viewer/default/train?row=0&views%5B%5D=train  
+Contest problems from AoPS (Art of Problem Solving) like the MATH dataset or [this one](https://huggingface.co/datasets/di-zhang-fdu/AOPS/viewer/default/train?row=0&views%5B%5D=train)  
 GTM (Graduate Texts in Mathematics) book series with about 200 books  
 Wiki websites like: Wikipedia, ProofWiki, PlanetMath, nLab  
 Github repos: Theorem provers (source code, textbooks, standard libraries, projects)  
