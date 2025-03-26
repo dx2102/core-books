@@ -151,22 +151,39 @@ Boyd, Convex Optimization https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf
 # Core of Math
 ## Mathematical Analysis
 
-Terence Tao, Analysis https://math.unm.edu/~crisp/courses/math401/tao.pdf
+Terence Tao, Analysis https://math.unm.edu/~crisp/courses/math401/tao.pdf Solutions https://github.com/frederic-santos/taoanalysissolutions/blob/master/analysis_t1_exercises.tex https://github.com/frederic-santos/taoanalysissolutions/blob/master/analysis_t2_exercises.tex
 
 Gelbaum, Counterexamples in Analysis https://faculty.ksu.edu.sa/sites/default/files/_olmsted_1.pdf
 
-Rudin, Real and Complex Analysis https://59clc.wordpress.com/wp-content/uploads/2011/01/real-and-complex-analysis.pdf
+Rudin, Real and Complex Analysis https://59clc.wordpress.com/wp-content/uploads/2011/01/real-and-complex-analysis.pdf Solutions https://iseulbee.com/wp-content/uploads/2014/03/RCA-Solution.pdf
+
+Rudin, Principles of Mathematical Analysis
+
 
 ## Complex Variables
 Conway, Functions of One Complex Variable https://psm73.wordpress.com/wp-content/uploads/2009/03/conway.pdf
 
 ## Ordinary Differential Equations
-Arnold, Ordinary differential equations https://loshijosdelagrange.wordpress.com/wp-content/uploads/2013/04/vladimir-i-arnold-vladimir-i-arnold-roger-cooke-ordinary-differential-equations-1992.pdf
+Arnold, Ordinary differential equations https://loshijosdelagrange.wordpress.com/wp-content/uploads/2013/04/vladimir-i-arnold-vladimir-i-arnold-roger-cooke-ordinary-differential-equations-1992.pdf  
 
 ## Point Set Topology
-Munkres, Topology https://people.math.ethz.ch/~dkosanovic/24-FS/Munkres-Topology.pdf
+Munkres, Topology https://people.math.ethz.ch/~dkosanovic/24-FS/Munkres-Topology.pdf Solutions https://math-study.net/wp-content/TopologySolutions.pdf https://math.ucr.edu/~res/math205B-2021/solutions/gentop-solutions.pdf
 
-Armstrong, Basic Topology https://math.mit.edu/~hrm/palestine/armstrong-basic-topology.pdf
+Armstrong, Basic Topology https://math.mit.edu/~hrm/palestine/armstrong-basic-topology.pdf Solutions https://github.com/gblikas/armstrongTopologySolutions/blob/master/Armstrong_Topology_Solutions%20(1).pdf
+
+Kelley, General Topology https://cjhb.site/Files.php/Books/(Uncategorized)/General%20Topology-John%20L.Kelley.pdf
+
+Morris, Topology without Tears, https://www.topologywithouttears.net/topbook.pdf
+
+Lynn Arthur Steen & J. Arthur Seebach, Counterexamples in Topology, https://editorialdinosaurio.wordpress.com/wp-content/uploads/2012/03/counterexamples_in_topology_-_l-_steen__j-_seebach__1970__ww.pdf
+
+Viro, Elementary Topology Problem Textbook https://www.maths.ed.ac.uk/~v1ranick/papers/viro.pdf
+
+Matsumura, Introduction to Topology [lecture-notes] https://pi.math.cornell.edu/~matsumura/math4530/IntroToTopology.pdf
+
+Renzo, Introduction to Topology [lecture-notes] https://www.math.colostate.edu/~renzo/teaching/Topology10/Notes.pdf
+
+Warner, Topological Rings, https://mezbanhabibi.ir/wp-content/uploads/2020/01/Topological-Rings-Warner.pdf
 
 ## Algebra
 Artin, Algebra https://media.githubusercontent.com/media/storagelfs/books/main/Applied%20Mathematics/Algebra/Artin.%20Algebra.%201991.pdf
@@ -254,7 +271,20 @@ Jost, Compact Riemann surfaces https://www.maths.ed.ac.uk/~v1ranick/papers/jost.
 ...
 
 ## Topological Data Analysis
-...
+
+An introduction to Topological Data Analysis: fundamental and practical aspects for data scientists https://arxiv.org/pdf/1710.04019
+
+Computational Topology for Data Analysis https://www.cs.purdue.edu/homes/tamaldey/book/CTDAbook/CTDAbook.pdf
+
+Topological Data Analysis Mastermath [lecture-notes] https://www.few.vu.nl/~botnan/lecture_notes.pdf
+
+Zomorodian, Topological Data Analysis https://www.datascienceassn.org/sites/default/files/Topological%20Data%20Analysis.pdf
+
+Topological Data Analysis https://www.math.columbia.edu/~thaddeus/blumberg/book/07.2_pp_122_169_Topological_Data_Analysis.pdf
+
+Moschen, Topological Data Analysis - Exercises https://lucasmoschen.github.io/files/disciplines/topological-data-analysis/exercises.pdf
+
+Schenck, Algebraic Foundations for Applied Topology and Data Analysis https://webhome.auburn.edu/~hks0015/data2.pdf
 
 ## Quantum Topology
 ...
@@ -281,7 +311,8 @@ Fulton/Harris, Representation theory: a first course https://mat.uab.cat/~pitsch
 ...
 
 ## Category Theory
-...
+
+Jiri Adámek, Horst Herrlich, George E. Strecker — Abstract and Concrete Categories: The Joy of Cats http://www.tac.mta.ca/tac/reprints/articles/17/tr17.pdf
 
 ## Symplectic Geometry
 ...
