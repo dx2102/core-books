@@ -44,31 +44,87 @@ Terrece Tao, Solving Mathematical Problems https://raktimchatterjee.wordpress.co
 # Center of College Math 
 
 ## Introduction to Math
+
 Evan Chen, An Infinitely Large Napkin https://venhance.github.io/napkin/Napkin.pdf
 
 Gowers, Princeton Companion to Mathematics https://sites.math.rutgers.edu/~zeilberg/akherim/PCM.pdf
 Hilbert, Foundations of geometry https://math.berkeley.edu/~wodzicki/160/Hilbert.pdf
 
+Daniel J. Velleman, How to Prove It https://users.metu.edu.tr/serge/courses/111-2011/textbook-math111.pdf
+
 Graham, Concrete mathematics https://github.com/djtrack16/thyme/blob/master/math/Concrete%20Mathematics%20A%20Foundation%20of%20Computer%20Science%202nd%20Edition.pdf
 
 Halmos, Naive set theory http://people.whitman.edu/~guichard/260/halmos__naive_set_theory.pdf
 
-## Precalculus
-...
-
 ## Calculus
-...
+
+Tom M. Apostol, Calculus Vol. 1   https://theswissbay.ch/pdf/Gentoomen%20Library/Maths/Calculus/Tom%20Apostol%20-%20Calculus%20vol.1%20-%20One-variable%20Calculus%2C%20with%20an%20Introduction%20to%20Linear%20Algebra%20%281975%29.pdf
+
+Tom M. Apostol, Calculus Vol. 2   https://theswissbay.ch/pdf/Gentoomen%20Library/Maths/Calculus/Tom%20Apostol%20-%20Calculus%20Vol.2%20-%20Multi-Variable%20Calculus%20and%20Linear%20Algebra%20with%20Applications.pdf
+
+Michael Spivak, Calculus   http://148.216.54.18/~fhernandez/Cursos/Calculo2015/spivak.pdf
+
+James Stewart, Calculus   https://patemath.weebly.com/uploads/5/2/5/8/52589185/james-stewart-calculus-early-transcendentals-7th-edition-2012-1-20ng7to-1ck11on.pdf
+
+Jerrold E. Marsden & Alan Weinstein, Calculus Vol. 1   https://valle.fciencias.unam.mx/librosautor/CU.pdf
+
+Jerrold E. Marsden & Alan Weinstein, Calculus Vol. 2   https://valle.fciencias.unam.mx/librosautor/CU.pdf
+
+Howard Anton, Calculus   https://3lihandam69.files.wordpress.com/2018/10/calculus-10th-edition-anton.pdf
+
+Ron Larson & Bruce Edwards, Calculus   https://github.com/bookyue/my_books/blob/master/mathematics/calculus/larson_calculus/Calculus%2011th%20edition%20by%20Ron%20Larson%2C%20Bruce%20Edwards.pdf
+
+Richard Courant & Fritz John, Introduction to Calculus and Analysis Vol. 1   http://www.astrosen.unam.mx/~aceves/Metodos/ebooks/courant_john1.pdf
+
+Richard Courant & Fritz John, Introduction to Calculus and Analysis Vol. 2   http://www.astrosen.unam.mx/~aceves/Metodos/ebooks/courant_john1.pdf
+
+Edwin E. Moise & Floyd L. Downs Jr., Calculus   https://colmaths.files.wordpress.com/2013/01/geometria-moderna-moise.pdf
+
+James Kaplansky, An Introduction to Differential and Integral Calculus https://www.maths.cam.ac.uk/undergrad/files/schedules.pdf
 
 ## Linear Algebra
 
-Gilbert Strang, Linear Algebra and Its Applications
-https://rksmvv.ac.in/wp-content/uploads/2021/04/Gilbert_Strang_Linear_Algebra_and_Its_Applicatio_230928_225121.pdf
+David C. Lay, Linear Algebra and Its Applications   https://broman.dev/download/Linear%20Algebra%20and%20its%20Applications%205th%20Edition.pdf
 
-Sheldon Axler, Linear Algebra Done Right https://linear.axler.net/LADR4e.pdf
+Gilbert Strang, Introduction to Linear Algebra   https://students.aiu.edu/submissions/profiles/resources/onlineBook/Y5B7M4_Introduction_to_Linear_Algebra-_Fourth_Edition.pdf
 
-## Probability and Statistics
-...
+Gilbert Strang, Linear Algebra and Its Applications   https://rksmvv.ac.in/wp-content/uploads/2021/04/Gilbert_Strang_Linear_Algebra_and_Its_Applicatio_230928_225121.pdf
 
+Sheldon Axler, Linear Algebra Done Right   https://linear.axler.net/LADR4e.pdf
+
+Sergei Treil, Linear Algebra Done Wrong   https://www.math.brown.edu/streil/papers/LADW/LADW-2014-09.pdf
+
+Stephen H. Friedberg, Linear Algebra   https://anandinstitute.org/pdf/lenearal.pdf
+
+Serge Lang, Linear Algebra   https://users.math.msu.edu/users/parker/309/Lang-linear-algebra.pdf
+
+Kenneth Hoffman & Ray Kunze, Linear Algebra   https://www.math.pku.edu.cn/teachers/anjp/textbook.pdf
+
+Paul R. Halmos, Finite-Dimensional Vector Spaces   https://www.magradze.de/academics/CS550/Halmos.pdf
+
+Steven Roman, Advanced Linear Algebra   https://s2pnd-matematika.fkip.unpatti.ac.id/wp-content/uploads/2019/03/Graduate-Texts-in-Mathematics-135-Steven-Roman-Advanced-Linear-Algebra-Third-Edition-Graduate-Texts-in-Mathematics-Springer-2008.pdf
+
+Seymour Lipschutz & Marc Lipson, Schaum’s Outline of Linear Algebra http://www.astronomia.edu.uy/progs/algebra/Linear_Algebra,_4th_Edition__(2009)Lipschutz-Lipson.pdf
+
+## Probability Theory
+
+William Feller, An Introduction to Probability Theory and Its Applications Vol. 1   https://bitcoinwords.github.io/assets/papers/an-introduction-to-probability-theory-and-its-applications.pdf
+
+William Feller, An Introduction to Probability Theory and Its Applications Vol. 2   https://www.climet.com/toolbox/feller-correction-calculator/Feller-1968.pdf
+
+A. A. Borovkov, Probability Theory http://repository.cinec.edu/bitstream/cinec20/1178/1/2013_Book_ProbabilityTheory.pdf
+
+Patrick Billingsley, Probability and Measure https://www.colorado.edu/amath/sites/default/files/attached-files/billingsley.pdf
+
+Loève, Probability Theory https://math.mit.edu/~hrm/palestine/maclane-categories.pdf
+
+Jeffrey S. Rosenthal, A First Look at Rigorous Probability Theory https://tiu-edu.uz/media/books/2024/05/28/1664973378.pdf
+
+Jean Jacod & Philip Protter, Probability Essentials   https://www.karlin.mff.cuni.cz/~lachout/Vyuka/O-Sem/JacodProtter2004.pdf
+
+Yuan Shih Chow & Henry Teicher, Probability Theory: Independence, Interchangeability, Martingales   http://ndl.ethernet.edu.et/bitstream/123456789/37744/1/Yuan%20Shih%20Chow_1997.pdf
+
+S. M. Ross, Stochastic Processes https://github.com/anishLearnsToCode/books/blob/master/probability-statistics/Stochastic-Processes-sheldon-m-ross.pdf
 
 ## Mathematical Analysis
 
@@ -99,19 +155,62 @@ H. L. Royden & P. M. Fitzpatrick - Real Analysis https://s2pnd-matematika.fkip.u
 Rudin, Real and Complex Analysis https://59clc.wordpress.com/wp-content/uploads/2011/01/real-and-complex-analysis.pdf Solutions https://iseulbee.com/wp-content/uploads/2014/03/RCA-Solution.pdf https://github.com/awasthi/math-solutions/blob/master/Rudin/Real%20and%20Complex%20Analysis/PapaRudinSolutions.tex
 
 ## Complex Variables
+
+Lars Ahlfors, Complex Analysis https://mccuan.math.gatech.edu/courses/6321/lars-ahlfors-complex-analysis-third-edition-mcgraw-hill-science_engineering_math-1979.pdf
+
 Conway, Functions of One Complex Variable https://psm73.wordpress.com/wp-content/uploads/2009/03/conway.pdf
 
+Theodore W. Gamelin, Complex Analysis https://unina2.on-line.it/sebina/repository/catalogazione/documenti/Gamelin%20-%20Complex%20analysis.pdf
+
+Reinhold Remmert, Theory of Complex Functions https://www.matem.unam.mx/~hector/Remmert-TheoryCpxFtns.pdf
+
+Serge Lang, Complex Analysis http://79.175.134.118/portals/0/books/gtm/شمارهٔ%20۱%DB%B0۳-آنالیز%20مختلط،%20سرژ%20لنگ%20(1999،%20ویرایش%20چهارم).pdf
+
+Elias Stein & Rami Shakarchi, Complex Analysis https://www.fing.edu.uy/~cerminar/Complex_Analysis.pdf
+
+Mark J. Ablowitz & Athanassios S. Fokas, Complex Variables: Introduction and Applications https://ftfsite.ru/wp-content/files/tfkp_endlish_2.2.pdf
+
+James Ward Brown & Ruel V. Churchill, Complex Variables and Applications https://people.math.sc.edu/girardi/m7034/book/ChurchillBrown8ed.pdf
+
+Donald Sarason, Complex Function Theory https://www.ams.org/books/mbk/049/mbk049-endmatter.pdf
+
+Eberhard Freitag, Complex Analysis https://www.mathi.uni-heidelberg.de/~freitag/skripten/complexspaces.pdf
+
+
 ## Ordinary Differential Equations
-Arnold, Ordinary differential equations https://loshijosdelagrange.wordpress.com/wp-content/uploads/2013/04/vladimir-i-arnold-vladimir-i-arnold-roger-cooke-ordinary-differential-equations-1992.pdf  
+
+Earl Coddington, An Introduction to Ordinary Differential Equations   https://www.iitg.ac.in/jiten/Extra/Coddrington.pdf
+
+E.L. Ince, Ordinary Differential Equations   https://msulaiman.org/onewebmedia/(UNITEXT%2088)%20Shair%20Ahmad,%20Antonio%20Ambrosetti%20(auth.)-A%20Textbook%20on%20Ordinary%20Differential%20Equations-Springer%20International%20Publishing%20(2015).pdf
+
+William E. Boyce & Richard C. DiPrima, Elementary Differential Equations and Boundary Value Problems   https://scienceclopedia.wordpress.com/wp-content/uploads/2019/09/william-e.-boyceelementary-differential-equations-and-boundary-value-problems-wiley-2017.pdf
+
+George F. Simmons, Differential Equations with Applications and Historical Notes   https://horizons-2000.org/92.%20Misc%20Files/Reading/Differential%20Equations--George%20Simpson.pdf
+
+Dennis G. Zill, A First Course in Differential Equations   http://lya.fciencias.unam.mx/jele/EDOs2k15.2/Libros/A%20First%20Course%20in%20Differential%20Equations%20with%20Modeling%20Applications%2010e%202012%20Zill.pdf
+
+Paul Blanchard, Robert L. Devaney & Glen R. Hall, Differential Equations   http://students.aiu.edu/submissions/profiles/resources/onlineBook/P6E5w8_differential%20equations%20blanchard%204th.pdf
+
+Morris Tenenbaum & Harry Pollard, Ordinary Differential Equations   https://cosmathclub.files.wordpress.com/2014/10/morris-tenenbaum-harry-pollard-ordinary-differential-equations-copy.pdf
+
+Martin Braun, Differential Equations and Their Applications   https://www.mmcmodinagar.ac.in/econtent/physics/DifferentialEquationsAndTheirApplications.pdf
+
+V.I. Arnold, Ordinary Differential Equations   https://loshijosdelagrange.files.wordpress.com/2013/04/vladimir-i-arnold-vladimir-i-arnold-roger-cooke-ordinary-differential-equations-1992.pdf
+
+Shepley L. Ross, Differential Equations   http://debracollege.dspaces.org/bitstream/123456789/19/1/Ross.pdf
+
+Tyn Myint-U & Lokenath Debnath, Linear Partial Differential Equations for Scientists and Engineers https://sharif.ir/~moosavi/Myint-U_Debnath-Linear_Partial_Differential_Equations_for_Scientists_and_Engineers.pdf
+
 
 ## Point Set Topology
+
 Munkres, Topology https://people.math.ethz.ch/~dkosanovic/24-FS/Munkres-Topology.pdf Solutions https://math-study.net/wp-content/TopologySolutions.pdf https://math.ucr.edu/~res/math205B-2021/solutions/gentop-solutions.pdf https://github.com/awasthi/math-solutions/blob/master/Munkres/Munkres%20Solutions.tex
 
 Armstrong, Basic Topology https://math.mit.edu/~hrm/palestine/armstrong-basic-topology.pdf Solutions https://github.com/gblikas/armstrongTopologySolutions/blob/master/Armstrong_Topology_Solutions%20(1).pdf
 
 Kelley, General Topology https://cjhb.site/Files.php/Books/(Uncategorized)/General%20Topology-John%20L.Kelley.pdf
 
-Morris, Topology without Tears, https://www.topologywithouttears.net/topbook.pdf
+Morris, Topology without Tears https://www.topologywithouttears.net/topbook.pdf
 
 Lynn Arthur Steen & J. Arthur Seebach, Counterexamples in Topology, https://editorialdinosaurio.wordpress.com/wp-content/uploads/2012/03/counterexamples_in_topology_-_l-_steen__j-_seebach__1970__ww.pdf
 
@@ -121,13 +220,31 @@ Matsumura, Introduction to Topology [lecture-notes] https://pi.math.cornell.edu/
 
 Renzo, Introduction to Topology [lecture-notes] https://www.math.colostate.edu/~renzo/teaching/Topology10/Notes.pdf
 
-Warner, Topological Rings, https://mezbanhabibi.ir/wp-content/uploads/2020/01/Topological-Rings-Warner.pdf
+Warner, Topological Rings https://mezbanhabibi.ir/wp-content/uploads/2020/01/Topological-Rings-Warner.pdf
+
+Simmons, Introduction to Topology and Modern Analysis https://github.com/anishLearnsToCode/books/blob/master/topology/Introduction-to-Topology-and-Modern-Analysis.pdf
 
 ## Algebra
+
 Artin, Algebra https://media.githubusercontent.com/media/storagelfs/books/main/Applied%20Mathematics/Algebra/Artin.%20Algebra.%201991.pdf Solutions https://github.com/awasthi/math-solutions/blob/master/Artin/Artin%20Solutions.tex
 
 Paolo Aluffi, Algebra: Chapter 0 https://agorism.dev/book/math/alg/algebra_chapter-0_paolo-aluffi.pdf
 
+Charles C. Pinter, A Book of Abstract Algebra https://math.umd.edu/~jcohen/402/Pinter%20Algebra.pdf
+
+Joseph A. Gallian, Contemporary Abstract Algebra https://github.com/dtbinh/OpenCourse/blob/master/AbstractAlgebra/Contemporary%20Abstract%20Algebra%209th%20Joseph%20A.%20Gallian.pdf
+
+David S. Dummit & Richard M. Foote, Abstract Algebra https://www.gregkikola.com/dl/guides/dfsol.pdf
+
+I.N. Herstein, Topics in Algebra http://www.uop.edu.pk/ocontents/Topics%20in%20Algebra%20by%20I.%20N.%20Herstein.pdf
+
+Serge Lang, Algebra https://eclass.upatras.gr/modules/document/file.php/MATH1229/Algebra%20by%20Serge%20Lang%20%28z-lib.org%29.pdf
+
+Nathan Jacobson, Basic Algebra https://www.math.toronto.edu/~ila/Jacobson-Basic_algebra_I%20(1).pdf
+
+Thomas W. Hungerford, Algebra https://pages.cs.wisc.edu/~dluu/ps/Wilson's%20solutions%20to%20Hungerford%20-%20Algebra.pdf
+
+Joseph J. Rotman, An Introduction to the Theory of Groups https://eclass.uoa.gr/modules/document/file.php/MATH784/Rotman%20An%20introduction%20to%20the%20theory%20of%20groups%20%281%29.pdf
 
 
 
